@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Muchu",
+  "base_artist": "eyden",
+  "createdAt": "2025-12-30T15:06:12.813425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Trap Muchu (feat. asmi & Three)",
+      "artist": "MAISONdes feat. asmi & すりぃ",
+      "has_synced": true,
+      "path": "select/01_Love_Trap_Muchu_(feat._asmi_&_Three)_MAISONdes_feat._asmi_&_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Trap Muchu",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_Love_Trap_Muchu_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイワナムチュー - Love Trap Muchu (feat. asmi",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/03_アイワナムチュー_-_Love_Trap_Muchu_(feat._asmi_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイワナムチュー - Love Trap Muchu (feat. すりぃ & asmi)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/04_アイワナムチュー_-_Love_Trap_Muchu_(feat._すりぃ_&_asmi)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Trap Muchu",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/05_Love_Trap_Muchu_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Muchu",
+      "artist": "eyden",
+      "has_synced": false,
+      "path": "select/06_Muchu_eyden.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Trap Muchu (Feat. asmi, Three)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_Love_Trap_Muchu_(Feat._asmi,_Three)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Muchu",
+      "artist": "eyden, Tiji Jojo",
+      "has_synced": false,
+      "path": "select/pl_01_Muchu_eyden,_Tiji_Jojo.txt"
+    }
+  ]
+}
